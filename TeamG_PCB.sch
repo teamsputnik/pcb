@@ -13080,7 +13080,7 @@ Created by Upverter.com</description>
 <wire x1="284.48" y1="30.48" x2="284.48" y2="27.94" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="MOTOR_24V_SAFE" class="6">
+<net name="MOTOR_24V" class="6">
 <segment>
 <pinref part="MOTOR" gate="-1" pin="S"/>
 <pinref part="F5" gate="1" pin="2"/>
